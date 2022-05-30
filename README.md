@@ -1,5 +1,5 @@
 ### Olá!
-#### Meu nome é Alexandre Noguez e estes são os meus repositórios e alguns dos projetos em que eu trabalhei e apliquei meus estudos!
+#### Meu nome é Alexandre Noguez e estes são os meus repositórios de alguns dos projetos em que eu trabalhei e apliquei meus estudos!
 Eu espero que vocês gostem! Ah, e claro, eu vou ficar muito feliz com sugestões e dicas de novas tecnologias para estudar!
 Este é o meu primeiro site que foi para produção, utilizando React e Tailwind no frontend, NodeJS no backend.
 
