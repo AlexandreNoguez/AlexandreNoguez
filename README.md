@@ -16,8 +16,8 @@ Atualmente estou focando meu estudo em:
 ### Hi there!
 #### My name is Alexandre Noguez and this is my repositories and all the projects I worked on until now as a study!
 I hope you like it! Ah, and of couse, I'll enjoy a lot if you share tips and new technologies to study!
-
 This is my first deploy with some technologies, using React and Tailwind for frontend and NodeJS for backend. <br>
+
 https://codingpath-b04w9zdsq-alexandrenoguez.vercel.app/
 
 Nowadays I'm focusing my studies in:
