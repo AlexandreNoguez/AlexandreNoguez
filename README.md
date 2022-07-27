@@ -3,7 +3,7 @@
 Eu espero que vocês gostem! Ah, e claro, eu vou ficar muito feliz com sugestões e dicas de novas tecnologias para estudar!
 Este é o meu primeiro site que foi para produção, utilizando React e Tailwind no frontend, NodeJS no backend.
 
-https://codingpath-2flxcvr14-alexandrenoguez.vercel.app/
+https://codingpath-9vzxmfrd4-alexandrenoguez.vercel.app/
 
 Atualmente estou focando meu estudo em:
 * React 
@@ -18,7 +18,7 @@ Atualmente estou focando meu estudo em:
 I hope you like it! Ah, and of couse, I'll enjoy a lot if you share tips and new technologies to study!
 This is my first deploy with some technologies, using React and Tailwind for frontend and NodeJS for backend. <br>
 
-https://codingpath-2flxcvr14-alexandrenoguez.vercel.app/
+https://codingpath-9vzxmfrd4-alexandrenoguez.vercel.app/
 
 Nowadays I'm focusing my studies in:
 * React 
