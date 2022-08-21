@@ -20,7 +20,7 @@ This is my first deploy with some technologies, using React and Tailwind for fro
 
 https://codingpath-alexandrenoguez.vercel.app/
 
-Nowadays I'm focusing my studies in:
+Nowadays I'm focusing my studies on:
 * React 
 * NodeJS 
 * Express 
