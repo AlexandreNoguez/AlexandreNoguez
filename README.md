@@ -4,34 +4,29 @@ Meu nome é Alexandre Noguez e sou desenvolvedor de software. Bem-vindo aos meus
 
 Aqui está o link para o meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/). Nele, utilizei as seguintes tecnologias:
 
-**Frontend:**
-- React
-- Tailwind CSS
-- Reactstrap
-- MaterialUI
-- SemanticUI
-- Bootstrap
-- Bootstrap-table-next
-
-**Backend:**
-- Node.js
-- Express
-- Fastify
-- fs
-- path
-- nodemailer
+| Frontend            | Backend           |
+| ------------------- | ----------------- |
+| React               | Node.js           |
+| Tailwind CSS        | Express           |
+| Reactstrap          | Fastify           |
+| MaterialUI          | fs                |
+| SemanticUI          | path              |
+| Bootstrap           | nodemailer        |
+| Bootstrap-table-next|                   |
 
 Além disso, estou atualmente focado nos seguintes estudos:
 
-- Next13
-- Java/Spring
-- MySQL
-- PostgreSQL
-- MariaDB
-- Express
-- Axios
-- Mongoose
-- TypeScript
+| Novas Tecnologias   |
+| ------------------- |
+| Next.js             |
+| Java/Spring         |
+| MySQL               |
+| PostgreSQL          |
+| MariaDB             |
+| Express             |
+| Axios               |
+| Mongoose            |
+| TypeScript          |
 
 Aqui estão algumas das tecnologias com as quais tenho experiência:
 
