@@ -7,10 +7,19 @@ Aqui está o link para o meu site em produção: [Coding Path](https://codingpat
 **Frontend:**
 - React
 - Tailwind CSS
+- Reactstrap
+- MaterialUI
+- SemanticUI
+- Bootstrap
+- Bootstrap-table-next
 
 **Backend:**
 - Node.js
 - Express
+- Fastify
+- fs
+- path
+- nodemailer
 
 Além disso, estou atualmente focado nos seguintes estudos:
 
