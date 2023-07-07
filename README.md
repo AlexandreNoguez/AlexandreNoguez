@@ -2,7 +2,7 @@
 
 Meu nome é Alexandre Noguez e sou desenvolvedor de software. Bem-vindo aos meus repositórios, onde compartilho alguns dos projetos em que trabalhei e apliquei meus conhecimentos. Espero que você goste deles!
 
-Aqui está o link para o meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/). Nele, utilizei as seguintes tecnologias:
+Aqui está o link para o meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/). Atualmente trabalho com as seguintes tecnologias:
 
 | Frontend            | Backend           |
 | ------------------- | ----------------- |
@@ -18,7 +18,7 @@ Além disso, estou atualmente focado nos seguintes estudos:
 
 | Novas Tecnologias   |
 | ------------------- |
-| Next.js             |
+| Next13              |
 | Java/Spring         |
 | MySQL               |
 | PostgreSQL          |
@@ -27,8 +27,6 @@ Além disso, estou atualmente focado nos seguintes estudos:
 | Axios               |
 | Mongoose            |
 | TypeScript          |
-
-Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
