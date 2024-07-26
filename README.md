@@ -1,32 +1,49 @@
-### Olá!
+# Bem-vindo!
 
-Meu nome é Alexandre Noguez e sou desenvolvedor de software. Bem-vindo aos meus repositórios, onde compartilho alguns dos projetos em que trabalhei e apliquei meus conhecimentos. Espero que você goste deles!
+Meu nome é **Alexandre Noguez** e sou um desenvolvedor de software Fullstack. Seja bem-vindo aos meus repositórios! Aqui, você encontrará alguns dos projetos em que trabalhei e onde apliquei meus conhecimentos. Espero que goste deles e que possam ser úteis de alguma forma.
 
-Aqui está o link para o meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/). Atualmente trabalho com as seguintes tecnologias:
+### 🌐 Site em Produção
 
-| Frontend            | Backend           |
-| ------------------- | ----------------- |
-| React               | Node.js           |
-| Tailwind CSS        | Express           |
-| Reactstrap          | Fastify           |
-| MaterialUI          | fs                |
-| SemanticUI          | path              |
-| Bootstrap           | nodemailer        |
-| Bootstrap-table-next|                   |
+Visite meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/)
 
-Além disso, estou atualmente focado nos seguintes estudos:
+### 🛠️ Tecnologias Utilizadas
 
-| Novas Tecnologias   |
-| ------------------- |
-| Next13              |
-| Java/Spring         |
-| MySQL               |
-| PostgreSQL          |
-| MariaDB             |
-| Express             |
-| Axios               |
-| Mongoose            |
-| TypeScript          |
+#### Frontend
+- React
+- Next.js 12, 13 e 14
+- Angular 16+
+- Material-UI
+- Semantic UI
+- Tailwind CSS
+- Reactstrap
+- Bootstrap
+- Bootstrap-table-next
+
+#### Backend
+- Node.js
+- Express
+- Fastify
+- fs
+- path
+- nodemailer
+- Java/Spring
+- MySQL
+- PostgreSQL
+- MariaDB
+- Express
+- Mongoose
+
+### 📚 Estudos Atuais
+
+Atualmente, estou focado em expandir meus conhecimentos nas seguintes tecnologias:
+
+- C#/ASP.NET
+- Flutter
+- React Native
+- TypeScript
+- AWS
+
+### 🛡️ Badges
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -38,4 +55,6 @@ Além disso, estou atualmente focado nos seguintes estudos:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-Sinta-se à vontade para explorar meus projetos e fornecer sugestões ou dicas de novas tecnologias para estudar. Obrigado!
+### 🤝 Contribuições
+
+Sinta-se à vontade para explorar meus projetos, fornecer sugestões ou compartilhar dicas sobre novas tecnologias que devo estudar. Seu feedback é sempre bem-vindo e apreciado!
