@@ -11,12 +11,16 @@ Visite meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.
 | Frontend            | Backend           |
 | ------------------- | ----------------- |
 | React               | Node.js           |
-| Tailwind CSS        | Express           |
-| Reactstrap          | Fastify           |
+| Next.js 12, 13 e 14 | Express           |
+| Angular 16+         | Fastify           |
 | Material-UI         | fs                |
 | Semantic UI         | path              |
-| Bootstrap           | nodemailer        |
-| Bootstrap-table-next|                   |
+| Tailwind CSS        | nodemailer        |
+| Reactstrap          | Java/Spring       |
+| Bootstrap           | MySQL             |
+| Bootstrap-table-next| PostgreSQL        |
+|                     | MariaDB           |
+|                     | Mongoose          |
 
 ### 📚 Estudos Atuais
 
@@ -24,15 +28,11 @@ Atualmente, estou focado em expandir meus conhecimentos nas seguintes tecnologia
 
 | Novas Tecnologias   |
 | ------------------- |
-| Next.js 13          |
-| Java/Spring         |
-| MySQL               |
-| PostgreSQL          |
-| MariaDB             |
-| Express             |
-| Axios               |
-| Mongoose            |
+| C#/ASP.NET          |
+| Flutter             |
+| React Native        |
 | TypeScript          |
+| AWS                 |
 
 ### 🛡️ Badges
 
