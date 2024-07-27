@@ -8,40 +8,31 @@ Visite meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.
 
 ### 🛠️ Tecnologias Utilizadas
 
-#### Frontend
-- React
-- Next.js 12, 13 e 14
-- Angular 16+
-- Material-UI
-- Semantic UI
-- Tailwind CSS
-- Reactstrap
-- Bootstrap
-- Bootstrap-table-next
-
-#### Backend
-- Node.js
-- Express
-- Fastify
-- fs
-- path
-- nodemailer
-- Java/Spring
-- MySQL
-- PostgreSQL
-- MariaDB
-- Express
-- Mongoose
+| Frontend            | Backend           |
+| ------------------- | ----------------- |
+| React               | Node.js           |
+| Tailwind CSS        | Express           |
+| Reactstrap          | Fastify           |
+| Material-UI         | fs                |
+| Semantic UI         | path              |
+| Bootstrap           | nodemailer        |
+| Bootstrap-table-next|                   |
 
 ### 📚 Estudos Atuais
 
 Atualmente, estou focado em expandir meus conhecimentos nas seguintes tecnologias:
 
-- C#/ASP.NET
-- Flutter
-- React Native
-- TypeScript
-- AWS
+| Novas Tecnologias   |
+| ------------------- |
+| Next.js 13          |
+| Java/Spring         |
+| MySQL               |
+| PostgreSQL          |
+| MariaDB             |
+| Express             |
+| Axios               |
+| Mongoose            |
+| TypeScript          |
 
 ### 🛡️ Badges
 
