@@ -8,7 +8,7 @@ Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos onde apl
 - 🧠 Interesse forte em arquitetura (DDD/Clean), performance e projetos escaláveis
 
 ## 🌐 Site em Produção
-- **Coding Path:** https://codingpath-alexandrenoguez.vercel.app/
+- [Lista de Projetos](https://alexandrenoguez.dev.br/)
 
 ## 🚀 Principais Stacks
 
