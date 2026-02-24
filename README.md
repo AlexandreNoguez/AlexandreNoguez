@@ -1,51 +1,92 @@
-# Bem-vindo!
+# Bem-vindo! 👋
 
-Meu nome é **Alexandre Noguez** e sou um desenvolvedor de software Fullstack. Seja bem-vindo aos meus repositórios! Aqui, você encontrará alguns dos projetos em que trabalhei e onde apliquei meus conhecimentos. Espero que goste deles e que possam ser úteis de alguma forma.
+Meu nome é **Alexandre Noguez** e sou **Desenvolvedor Full Stack**.  
+Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos onde aplico boas práticas de engenharia, arquitetura e construção de produtos.
 
-### 🌐 Site em Produção
+- 📍 Porto Alegre, RS  
+- 💼 Full Stack (Web + APIs)  
+- 🧠 Interesse forte em arquitetura (DDD/Clean), performance e projetos escaláveis
 
-Visite meu site em produção: [Coding Path](https://codingpath-alexandrenoguez.vercel.app/)
+## 🌐 Site em Produção
+- **Coding Path:** https://codingpath-alexandrenoguez.vercel.app/
 
-### 🛠️ Tecnologias Utilizadas
+## 🚀 Principais Stacks
 
-| Frontend            | Backend           |
-| ------------------- | ----------------- |
-| React               | Node.js           |
-| Next.js 12, 13 e 14 | Express           |
-| Angular 16+         | Fastify           |
-| Material-UI         | fs                |
-| Semantic UI         | path              |
-| Tailwind CSS        | nodemailer        |
-| Reactstrap          | Java/Spring       |
-| Bootstrap           | MySQL             |
-| Bootstrap-table-next| PostgreSQL        |
-|                     | MariaDB           |
-|                     | Mongoose          |
+### 🧩 JavaScript / TypeScript
+- **Frontend:** React, Next.js, Angular
+- **Backend:** Node.js, NestJS (e padrões REST)
+- **Extras:** validação, autenticação/autorização, integração com APIs, upload/processamento de arquivos
 
-### 📚 Estudos Atuais
+### ☕ Java / Spring
+- Spring Boot, APIs REST, boas práticas de camadas (controller/service/repository)
+- Integração com bancos relacionais e padrões de projeto
 
-Atualmente, estou focado em expandir meus conhecimentos nas seguintes tecnologias:
+### ⚙️ C# / ASP.NET Core
+- ASP.NET Core Web API, EF Core, arquitetura em camadas/DDD
+- Integrações, validações, autenticação e boas práticas para produção
 
-| Novas Tecnologias   |
-| ------------------- |
-| C#/ASP.NET          |
-| Flutter             |
-| React Native        |
-| TypeScript          |
-| AWS                 |
+## 🛠️ Tecnologias e Ferramentas
 
-### 🛡️ Badges
+**Frontend**
+- React, Next.js, Angular
+- Material UI
+- React Hook Form
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+**Backend**
+- Node.js, NestJS
+- Java (Spring Boot)
+- C# (ASP.NET Core)
 
-### 🤝 Contribuições
+**Dados**
+- PostgreSQL, MySQL, MariaDB
+- MongoDB
 
-Sinta-se à vontade para explorar meus projetos, fornecer sugestões ou compartilhar dicas sobre novas tecnologias que devo estudar. Seu feedback é sempre bem-vindo e apreciado!
+**Cloud & DevOps**
+- Azure (Functions, App Service, Storage)
+- AWS (EC2, S3, pipelines)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions / Azure DevOps)
+- Git / Git-flow
+
+## 📌 Como estão organizados meus repositórios
+Você vai encontrar principalmente:
+- `backend/` → APIs, workers e serviços
+- `frontend/` → apps web e interfaces
+- `fullstack/` → projetos completos (front + back)
+- `labs/` → POCs, estudos e experimentos
+
+> Alguns projetos são estudos e outros são mais “production-ready”.
+> Sempre que possível eu deixo README com setup, decisões e próximos passos.
+
+## 📚 Estudos Atuais
+Atualmente estou aprofundando:
+- Arquitetura de Software (DDD / Clean / Microsserviços)
+- Mensageria e pipelines (event-driven)
+- Cloud (Azure e AWS) e observabilidade
+- Performance e escalabilidade em backends
+
+## 🛡️ Badges
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-05122A?style=flat&logo=nestjs&logoColor=E0234E)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A?style=flat&logo=spring)&nbsp;
+![C%23](https://img.shields.io/badge/C%23-05122A?style=flat&logo=csharp)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-05122A?style=flat&logo=microsoftazure)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+## 🤝 Contribuições e Contato
+Fique à vontade para explorar, abrir issues com sugestões, ou trocar ideias.
+
+- LinkedIn: https://www.linkedin.com/in/alexandre-noguez/
+
+⭐ Se algum repositório te ajudar, considere deixar uma estrela!
